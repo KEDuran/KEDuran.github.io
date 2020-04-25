@@ -15,3 +15,5 @@ For homework 2, I created a reponsive website portfolio. The site includes the a
   - Example: KEDuran.github.io
 
 - Sample wireframe for the portfolio site (included below)
+
+![portfolio wireframe @ 980px](images/portfolio_wireframe.png)
