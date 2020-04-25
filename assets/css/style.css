@@ -17,7 +17,7 @@ footer {
 
 .navbar-nav > li,
 .navbar-nav {
-	float: left !important;
+	justify-content: flex-start !important;
 }
 
 .navbar-nav.navbar-right:last-child {
@@ -25,5 +25,13 @@ footer {
 }
 
 .navbar-right {
-	float: right !important;
+	justify-content: flex-end !important;
 }
+/* 
+@media screen and (max-width: 640px) {
+	ul.navbar-nav li.nav-item {
+		display: block;
+		align-items: baseline;
+		justify-content: center;
+	}
+} */
