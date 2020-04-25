@@ -1,11 +1,3 @@
-footer {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	background: darkslategray;
-	height: 50px;
-}
-
 .container-column {
 	display: flex;
 	align-items: baseline;
@@ -26,6 +18,14 @@ footer {
 
 .navbar-right {
 	justify-content: flex-end !important;
+}
+
+footer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: darkslategray;
+	height: 50px;
 }
 /* 
 @media screen and (max-width: 640px) {
