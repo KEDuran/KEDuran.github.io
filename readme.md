@@ -12,4 +12,6 @@ For homework 2, I created a reponsive website portfolio. The site includes the a
 
 - Create a repository with format <GITHUBUSERNAME>.github.io
 
+  - Example: KEDuran.github.io
+
 - Sample wireframe for the portfolio site (included below)
