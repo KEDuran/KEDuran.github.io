@@ -6,7 +6,7 @@ footer {
 	height: 50px;
 }
 
-.container {
+.container-column {
 	display: flex;
 	align-items: baseline;
 }
