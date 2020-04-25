@@ -1,16 +1,7 @@
-/* .row {
-	display: flex;
-	justify-content: center;
-} */
-
 footer {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	background: darkslategray;
 	height: 50px;
-}
-.container {
-	display: flex;
-	align-items: baseline;
 }
