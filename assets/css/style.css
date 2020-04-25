@@ -10,3 +10,8 @@ footer {
 	display: flex;
 	align-items: baseline;
 }
+
+/* .nav {
+	display: flex;
+	justify-content: flex-end;
+} */
