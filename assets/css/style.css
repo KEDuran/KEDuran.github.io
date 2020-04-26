@@ -1,33 +1,9 @@
-body {
+* body {
 	width: 100%;
-}
-
-/* navbar selectors */
-.navbar-collapse.collapse {
-	display: block !important;
-}
-
-.navbar-nav > li,
-.navbar-nav {
-	justify-content: flex-start !important;
-}
-
-.navbar-nav.navbar-right:last-child {
-	margin-right: -15px !important;
-}
-
-.navbar-right {
-	justify-content: flex-end !important;
 }
 
 /* container selectors */
 .container-column {
 	display: flex;
 	align-items: baseline;
-}
-
-/* foot selectors */
-footer {
-	background: darkslategray;
-	height: 50px;
 }
