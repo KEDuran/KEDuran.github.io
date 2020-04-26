@@ -8,11 +8,19 @@
 .main-bg {
 	background-color: rgb(233, 227, 227);
 }
+
+/* header selectors */
+h2 {
+	color: rgb(73, 69, 69);
+	font-style: initial;
+}
+
 /* container selectors */
 .container-column {
 	display: flex;
 	align-items: baseline;
 }
+
 .bottom-row {
 	margin-bottom: auto;
 }
