@@ -1,12 +1,14 @@
+/* body selectors */
 * body {
 	width: 100%;
 }
+.main-bg {
+	background-color: rgb(233, 227, 227);
+}
+
 /* nav selectors */
 .purple {
 	background-color: rgb(104, 86, 139);
-}
-.main-bg {
-	background-color: rgb(233, 227, 227);
 }
 
 /* header selectors */
@@ -25,6 +27,11 @@ h2 {
 	margin-bottom: auto;
 }
 
+/* image selectors */
+.img-port {
+	width: 500px;
+	height: 500px;
+}
 /* footer selectors */
 footer {
 	width: 100%;
