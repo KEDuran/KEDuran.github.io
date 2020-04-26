@@ -1,8 +1,8 @@
-.container-column {
-	display: flex;
-	align-items: baseline;
+body {
+	width: 100%;
 }
 
+/* navbar selectors */
 .navbar-collapse.collapse {
 	display: block !important;
 }
@@ -19,19 +19,13 @@
 .navbar-right {
 	justify-content: flex-end !important;
 }
-
-footer {
+.container-column {
 	display: flex;
-	justify-content: center;
-	align-items: center;
+	align-items: baseline;
+}
+
+/* foot selectors */
+footer {
 	background: darkslategray;
 	height: 50px;
 }
-/* 
-@media screen and (max-width: 640px) {
-	ul.navbar-nav li.nav-item {
-		display: block;
-		align-items: baseline;
-		justify-content: center;
-	}
-} */
