@@ -5,6 +5,9 @@
 .purple {
 	background-color: rgb(104, 86, 139);
 }
+.main-bg {
+	background-color: rgb(233, 227, 227);
+}
 /* container selectors */
 .container-column {
 	display: flex;
