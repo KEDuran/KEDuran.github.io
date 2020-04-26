@@ -1,7 +1,10 @@
 * body {
 	width: 100%;
 }
-
+/* nav selectors */
+.purple {
+	background-color: rgb(104, 86, 139);
+}
 /* container selectors */
 .container-column {
 	display: flex;
