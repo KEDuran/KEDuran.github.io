@@ -14,6 +14,8 @@ For homework 2, I created a reponsive website portfolio. The site includes the a
 
   - Example: KEDuran.github.io
 
-- Sample wireframe for the portfolio site (included below)
+- Sample wireframe for the portfolio site when viewed from desktop screen is included below.
 
-![portfolio wireframe @ 980](assets/images/portfolio_wireframe.png)
+  - Note: Overall, layout is responsive and changes with the size of the screen.
+
+![portfolio wireframe on desktop](assets/images/portfolio_wireframe.png)
