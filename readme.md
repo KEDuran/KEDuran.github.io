@@ -18,4 +18,4 @@ For homework 2, I created a reponsive website portfolio. The site includes the a
 
   - Note: Overall, layout is responsive and changes with the size of the screen.
 
-![portfolio wireframe on desktop](assets/images/portfolio_wireframe.png)
+![portfolio wireframe of website on desktop](assets/images/portfolio_wireframe.png)
