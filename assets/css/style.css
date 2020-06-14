@@ -34,3 +34,7 @@ footer {
 	display: flex;
 	justify-content: center;
 }
+
+.embed-responsive .card-img-top {
+	object-fit: contain;
+}
