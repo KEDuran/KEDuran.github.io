@@ -1,21 +1,55 @@
-# Homework 2 - Portfolio
+# Portfolio for Krystal E. Duran
 
-For homework 2, I created a reponsive website portfolio. The site includes the all homework requires listed in the README_Instructions.md and additional requirements discussed in class:
+This portfolio website was last updated on 6/15/2020. Please reference the content below for a detailed summary of the updates I included as part of this assignment. At this time, my portfolio website now has the following pages to showcase my work:
 
-- A navbar
+- About webpage - Provides a short personal bio
+- Projects webpage - Showcases four of my high scoring projects
+- Fun Facts webpage - Includes some fun facts about me
+- Contact webpage - Includes a form that a user can fill out to contact me
+  - At this time, the form submission functionality is still in development, so I included a modal to serve as an error message to warn the reader that this page is still in development after they click the submit button on this page.
 
-- 100 commits
+## Links to Portfolio Website
 
-- A responsive layout
+Here are the links to the GitHub repo and link to my deployed portfolio website for your reference.
 
-- Responsive images
+- Link to GitHub Repo - [https://github.com/KEDuran/Portfolio](https://github.com/KEDuran/Portfolio)
+- Link to Deployed Portfolio Website - [https://keduran.github.io/Portfolio/](https://keduran.github.io/Portfolio/)
 
-- Create a repository with format <GITHUBUSERNAME>.github.io
+## Updates to Portfolio Website
 
-  - Example: KEDuran.github.io
+As specified in the instructional requirements, I updated my reponsive portfolio website to include the following:
 
-- Sample wireframe for the portfolio site when viewed from desktop screen is included below.
+- Links to my LinkedIn and GitHub profiles (both referenced in the Bio text on the About Page and footers located on each page)
+- Links to my resume, email, and phone number are also included in the About webpage
+- A dedicated Porjects webpage to showcase four high scored assignments (project 1 and three other projects)
 
-  - Note: Overall, layout is responsive and changes with the size of the screen.
+Similar to my initial portfolio website, this updated version already includes my name, mobile-first design, complementary color palette, and overall polished style.
 
-![portfolio wireframe of website on desktop](assets/images/portfolio_wireframe.png)
+## Updates to GitHub Repo
+
+I updated my GitHub profile to include the following items:
+
+- Profile picture (included prior to this assignment)
+- Bio (included prior to this assignment)
+- Location (included prior to this assignment)
+- Email (now listed)
+- Link to your portfolio (now listed)
+- Pinned four projects (specifically project 1 and three other high scored projects)
+
+I have included a link to my GitHub profile to confirm assignment requirements were met:
+
+- Link to my GitHub profile - [https://github.com/KEDuran](https://github.com/KEDuran)
+
+## Updates to Resume
+
+Here is a link to my updated resume that now showcases my progress made throughout the UT Coding Boot Camp.
+
+- Link to my resume - [Resume for Krystal E. Duran](https://drive.google.com/file/d/19KIgS42PcWX6oEKzVI1cSNP5Px2pAE8P/view?usp=sharing)
+
+## Updates to LinkedIn
+
+I have updated my LinkedIn Profile to include a strong bio / branding statement that has been reviewed by Career Services, a professional photo, and links to your GitHub profile and personal portfolio website.
+
+I have included a link to my LinkedIn profile to confirm assignment requirements were met:
+
+- Link to my LinkedIn profile - [https://www.linkedin.com/in/krystal-e-duran-b64552123/](https://www.linkedin.com/in/krystal-e-duran-b64552123/)
