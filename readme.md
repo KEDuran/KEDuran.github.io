@@ -1,6 +1,6 @@
 # Portfolio for Krystal E. Duran
 
-This portfolio website was last updated on 6/15/2020. Please reference the content below a detailed summary of the updated made to my portfolio. At this time my portfolio website now has the following pages to showcase my work:
+This portfolio website was last updated on 6/15/2020. Please reference the content below for a detailed summary of the updates made to my portfolio. At this time my portfolio website now has the following pages to showcase my work:
 
 - About webpage - Provides a short personal bio
 - Projects webpage - Dedicated to showcasing my projects
@@ -10,7 +10,10 @@ This portfolio website was last updated on 6/15/2020. Please reference the conte
 
 ## Links to Portfolio
 
-THe links provided belo
+Here are the links to the GitHub repo and link to deployed portfolio website for your reference.
+
+- Link to GitHub Repo - (https://github.com/KEDuran/Portfolio)[https://github.com/KEDuran/Portfolio]
+- Link to Deployed Portfolio Website - (https://keduran.github.io/Portfolio/)[https://keduran.github.io/Portfolio/]
 
 ## Updates to Portfolio Website
 
