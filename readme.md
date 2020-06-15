@@ -1,6 +1,6 @@
 # Portfolio for Krystal E. Duran
 
-This portfolio website was last updated on 6/15/2020. Please reference the content below for a detailed summary of the updates I included as part of this assignment. At this time, my portfolio website now has the following pages to showcase my work:
+This portfolio website was updated on 6/15/2020. Please reference the content below for a detailed summary of the updates I included for this assignment. At this time, my portfolio website now has the following pages to showcase my work:
 
 - About webpage - Provides a short personal bio
 - Projects webpage - Showcases four of my high scoring projects
@@ -10,7 +10,7 @@ This portfolio website was last updated on 6/15/2020. Please reference the conte
 
 ## Links to Portfolio Website
 
-Here are the links to the GitHub repo and link to my deployed portfolio website for your reference.
+Here are the links to the GitHub repo and deployed portfolio website for your reference.
 
 - Link to GitHub Repo - [https://github.com/KEDuran/Portfolio](https://github.com/KEDuran/Portfolio)
 - Link to Deployed Portfolio Website - [https://keduran.github.io/Portfolio/](https://keduran.github.io/Portfolio/)
@@ -21,9 +21,10 @@ As specified in the instructional requirements, I updated my reponsive portfolio
 
 - Links to my LinkedIn and GitHub profiles (both referenced in the Bio text on the About Page and footers located on each page)
 - Links to my resume, email, and phone number are also included in the About webpage
-- A dedicated Porjects webpage to showcase four high scored assignments (project 1 and three other projects)
+- A dedicated Projects webpage to showcase four high scored assignments (project 1 and three other projects)
+- Additional styling changes to ensure a uniquely styled portfolio
 
-Similar to my initial portfolio website, this updated version already includes my name, mobile-first design, complementary color palette, and overall polished style.
+Similar to my initial portfolio website, this updated version already included my name, mobile-first design, complementary color palette, and overall polished style.
 
 ## Updates to GitHub Repo
 
@@ -48,7 +49,7 @@ Here is a link to my updated resume that now showcases my progress made througho
 
 ## Updates to LinkedIn
 
-I have updated my LinkedIn Profile to include a strong bio / branding statement that has been reviewed by Career Services, a professional photo, and links to your GitHub profile and personal portfolio website.
+I have updated my LinkedIn Profile to include a strong bio / branding statement that has been already reviewed by Career Services, a professional photo, and links to your GitHub profile and personal portfolio website.
 
 I have included a link to my LinkedIn profile to confirm assignment requirements were met:
 
