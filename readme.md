@@ -1,20 +1,37 @@
-# Homework 2 - Portfolio
+# Portfolio for Krystal E. Duran
 
-For homework 2, I created a reponsive website portfolio. The site includes the all homework requires listed in the README_Instructions.md and additional requirements discussed in class:
+This portfolio website was last updated on 6/15/2020. Please reference the content below a detailed summary of the updated made to my portfolio. At this time my portfolio website now has the following pages to showcase my work:
 
-- A navbar
+- About webpage - Provides a short personal bio
+- Projects webpage - Dedicated to showcasing my projects
+- Fun Facts webpage - Inlcude some fun facts about me
+- Contact webpage - Includes a form that a user can fill out to contact me.
+  - This feature is not working at the moment, so I included a modal to serve as an error message to warn the reader.
 
-- 100 commits
+## Links to Portfolio
 
-- A responsive layout
+THe links provided belo
 
-- Responsive images
+## Updates to Portfolio Website
 
-- Create a repository with format <GITHUBUSERNAME>.github.io
+I updated my reponsive portfolio webiste to include the following
+
+- Links to my LinkedIn and GitHub profiles (both in the bio text and footers on each oage)
+- Dedicated page to showcase four high scored assignments (project 1 and three other projects)
+
+* A navbar
+
+* 100 commits
+
+* A responsive layout
+
+* Responsive images
+
+* Create a repository with format <GITHUBUSERNAME>.github.io
 
   - Example: KEDuran.github.io
 
-- Sample wireframe for the portfolio site when viewed from desktop screen is included below.
+* Sample wireframe for the portfolio site when viewed from desktop screen is included below.
 
   - Note: Overall, layout is responsive and changes with the size of the screen.
 
