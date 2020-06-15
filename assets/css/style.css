@@ -5,8 +5,9 @@
 .main-bg {
 	background-color: rgb(211, 188, 192);
 }
+/* text selectors */
 .text-color {
-	color: rgb(14, 16, 61);
+	color: rgb(8,28,21);
 }
 
 /* nav selectors */
@@ -24,8 +25,19 @@
 	margin-bottom: auto;
 }
 
+/* card selectors */
 .embed-responsive .card-img-top {
 	object-fit: contain;
+	margin-top: 10px;
+}
+
+.card-header {
+	background: rgb(64,145,108);
+}
+
+/* button selectors */
+.button-color{
+	background: rgb(64,145,108);
 }
 
 /* footer selectors */
