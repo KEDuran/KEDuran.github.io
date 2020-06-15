@@ -36,6 +36,7 @@ I updated my GitHub profile to include the following items:
 - Email (now listed)
 - Link to your portfolio (now listed)
 - Pinned four projects (specifically project 1 and three other high scored projects)
+- Followed Boot Camp colleagues that I have directly worked with
 
 I have included a link to my GitHub profile to confirm assignment requirements were met:
 
