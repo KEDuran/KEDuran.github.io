@@ -25,121 +25,128 @@
 		<link href="assets/css/style.css" rel="stylesheet" />
 	</head>
 
+	
 	<!-- Start body -->
 	<body class="main-bg">
-		<!-- Start Nav -->
-		<div
-			class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 purple"
-		>
-			<h2 class="my-0 mr-md-auto text-light">Krystal E. Duran</h2>
-			<nav class="my-2 my-md-0 mr-md-3">
-				<a class="p-2 text-light" href="index.html">About</a>
-				<a class="p-2 text-light" href="projects.html">Projects</a>
-				<a class="p-2 text-light" href="funfacts.html">Fun Facts</a>
-				<a class="p-2 text-light" href="contact.html">Contact</a>
-			</nav>
-		</div>
-		<!-- End Nav -->
-
-		<!-- Start column container -->
-		<div class="container-column">
-			<!--column for tiles-->
-			<div class="col-md-12">
-				<!-- header2 row -->
-				<div class="row mb-4">
-					<div class="col-md-2"></div>
-					<div class="col-md-8">
-						<h3 class="page-header pt-4 text-color">Contact</h3>
+		<!-- header starts -->
+		<header>
+			<!-- Start Nav -->
+			<div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 purple">
+				<h2 class="my-0 mr-md-auto text-light">Krystal E. Duran</h2>
+				<nav class="my-2 my-md-0 mr-md-3">
+					<a class="p-2 text-light" href="index.html">About</a>
+					<a class="p-2 text-light" href="projects.html">Projects</a>
+					<a class="p-2 text-light" href="funfacts.html">Fun Facts</a>
+					<a class="p-2 text-light" href="contact.html">Contact</a>
+				</nav>
+			</div>
+			<!-- End Nav -->
+		</header>
+		<!-- header ends -->
+	
+		<!-- main content starts -->
+		<main>
+			<!-- Start column container -->
+			<div class="container-column">
+				<!--column for tiles-->
+				<div class="col-md-12">
+					<!-- header2 row -->
+					<div class="row mb-4">
+						<div class="col-md-2"></div>
+						<div class="col-md-8">
+							<h3 class="page-header pt-4 text-color">Contact</h3>
+						</div>
+						<div class="col-md-2"></div>
 					</div>
-					<div class="col-md-2"></div>
-				</div>
-				<!-- form row -->
-				<div class="row">
-					<!--column 1-->
-					<div class="col-md-2"></div>
-					<!-- column 2 - form content -->
-					<div class="col-md-8">
-						<form>
-							<div class="form-group">
-								<label for="full_name">Name</label>
-								<input class="form-control" type="text" id="full_name" />
-							</div>
-							<div class="form-group">
-								<label for="exampleInputEmail1">Email address</label>
-								<input
-									type="email"
-									class="form-control"
-									id="exampleInputEmail1"
-									aria-describedby="emailHelp"
-								/>
-								<small id="emailHelp" class="form-text text-muted"
-									>I will never share your email with anyone else.</small
-								>
-							</div>
-							<div class="form-group">
-								<label for="email_content">Comment</label>
-								<textarea
-									class="form-control"
-									id="email_content"
-									rows="5"
-								></textarea>
-							</div>
-						</form>
-						<button
-							type="submit"
-							class="btn text-light button-color"
-							data-toggle="modal"
-							data-target="#exampleModal"
-						>
-							Submit
-						</button>
+					<!-- form row -->
+					<div class="row">
+						<!--column 1-->
+						<div class="col-md-2"></div>
+						<!-- column 2 - form content -->
+						<div class="col-md-8">
+							<form>
+								<div class="form-group">
+									<label for="full_name">Name</label>
+									<input class="form-control" type="text" id="full_name" />
+								</div>
+								<div class="form-group">
+									<label for="exampleInputEmail1">Email address</label>
+									<input
+										type="email"
+										class="form-control"
+										id="exampleInputEmail1"
+										aria-describedby="emailHelp"
+									/>
+									<small id="emailHelp" class="form-text text-muted"
+										>I will never share your email with anyone else.</small
+									>
+								</div>
+								<div class="form-group">
+									<label for="email_content">Comment</label>
+									<textarea
+										class="form-control"
+										id="email_content"
+										rows="5"
+									></textarea>
+								</div>
+							</form>
+							<button
+								type="submit"
+								class="btn text-light button-color"
+								data-toggle="modal"
+								data-target="#exampleModal"
+							>
+								Submit
+							</button>
+						</div>
+						<!--column 3-->
+						<div class="col-md-2"></div>
 					</div>
-					<!--column 3-->
-					<div class="col-md-2"></div>
-				</div>
-				<!-- modal row -->
-				<div
-					class="modal fade"
-					id="exampleModal"
-					tabindex="-1"
-					role="dialog"
-					aria-labelledby="exampleModalLabel"
-					aria-hidden="true"
-				>
-					<div class="modal-dialog">
-						<div class="modal-content">
-							<div class="modal-header">
-								<h5 class="modal-title" id="exampleModalLabel">
-									Error Message
-								</h5>
-								<button
-									type="button"
-									class="close"
-									data-dismiss="modal"
-									aria-label="Close"
-								>
-									<span aria-hidden="true">&times;</span>
-								</button>
-							</div>
-							<div class="modal-body">
-								Email submission is not available at this time. Please contact
-								me via LinkedIn or Github. Thanks!
-							</div>
-							<div class="modal-footer">
-								<button
-									type="button"
-									class="btn button-color text-light"
-									data-dismiss="modal"
-								>
-									Close
-								</button>
+					<!-- modal row -->
+					<div
+						class="modal fade"
+						id="exampleModal"
+						tabindex="-1"
+						role="dialog"
+						aria-labelledby="exampleModalLabel"
+						aria-hidden="true"
+					>
+						<div class="modal-dialog">
+							<div class="modal-content">
+								<div class="modal-header">
+									<h5 class="modal-title" id="exampleModalLabel">
+										Error Message
+									</h5>
+									<button
+										type="button"
+										class="close"
+										data-dismiss="modal"
+										aria-label="Close"
+									>
+										<span aria-hidden="true">&times;</span>
+									</button>
+								</div>
+								<div class="modal-body">
+									Email submission is not available at this time. Please contact
+									me via LinkedIn or Github. Thanks!
+								</div>
+								<div class="modal-footer">
+									<button
+										type="button"
+										class="btn button-color text-light"
+										data-dismiss="modal"
+									>
+										Close
+									</button>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-		<!-- End column container -->
+			<!-- End column container -->
+		</main>
+		<!-- main content ends -->
 
 		<!-- Start footer -->
 		<footer class="purple fixed-bottom">
