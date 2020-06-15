@@ -2,40 +2,54 @@
 
 This portfolio website was last updated on 6/15/2020. Please reference the content below for a detailed summary of the updates made to my portfolio. At this time my portfolio website now has the following pages to showcase my work:
 
-- About webpage - Provides a short personal bio
-- Projects webpage - Dedicated to showcasing my projects
-- Fun Facts webpage - Inlcude some fun facts about me
-- Contact webpage - Includes a form that a user can fill out to contact me.
+- **About webpage** - Provides a short personal bio
+- **Projects webpage** - Dedicated to showcasing my projects
+- **Fun Facts webpage** - Inlcude some fun facts about me
+- **Contact webpage** - Includes a form that a user can fill out to contact me
   - This feature is not working at the moment, so I included a modal to serve as an error message to warn the reader.
 
-## Links to Portfolio
+## Links to Portfolio Website
 
 Here are the links to the GitHub repo and link to deployed portfolio website for your reference.
 
-- Link to GitHub Repo - (https://github.com/KEDuran/Portfolio)[https://github.com/KEDuran/Portfolio]
-- Link to Deployed Portfolio Website - (https://keduran.github.io/Portfolio/)[https://keduran.github.io/Portfolio/]
+- Link to GitHub Repo - [https://github.com/KEDuran/Portfolio](https://github.com/KEDuran/Portfolio)
+- Link to Deployed Portfolio Website - [https://keduran.github.io/Portfolio/](https://keduran.github.io/Portfolio/)
 
 ## Updates to Portfolio Website
 
-I updated my reponsive portfolio webiste to include the following
+As specified in the instructional requirements, I updated my reponsive portfolio website to include the following:
 
-- Links to my LinkedIn and GitHub profiles (both in the bio text and footers on each oage)
-- Dedicated page to showcase four high scored assignments (project 1 and three other projects)
+- Links to my LinkedIn and GitHub profiles (both referenceds in the bio text and footers on each page)
+- Link to my resume, email, and phone number are also included in the About webpage.
+- A dedicated page to showcase four high scored assignments (project 1 and three other projects)
 
-* A navbar
+Similar to my initial portfolio website, this updated version includes my name, mobile-first design, complementary color palette, and overal polished style.
 
-* 100 commits
+## Updates to GitHub Repo
 
-* A responsive layout
+I updated my GitHub profile to include the following items:
 
-* Responsive images
+- Profile picture (included prior to this assignment)
+- Bio (included prior to this assignment)
+- Location (included prior to this assignment)
+- Email (now listed)
+- Link to your portfolio (now listed)
+- Pinned four projects (specifically project 1 and three other high scored projects)
 
-* Create a repository with format <GITHUBUSERNAME>.github.io
+I have included a link to my GitHub profile below to confirm assignment requirements were met:
 
-  - Example: KEDuran.github.io
+- Link to my GitHub profile - [https://github.com/KEDuran](https://github.com/KEDuran)
 
-* Sample wireframe for the portfolio site when viewed from desktop screen is included below.
+## Updates to Resume
 
-  - Note: Overall, layout is responsive and changes with the size of the screen.
+Here is a link to my updated resume that now showcases my progress throughout this UT Coding Boot Camp course.
 
-![portfolio wireframe of website on desktop](assets/images/portfolio_wireframe.png)
+- Link to my resume - [Resume for Krystal E. Duran](https://drive.google.com/file/d/19KIgS42PcWX6oEKzVI1cSNP5Px2pAE8P/view?usp=sharing)
+
+## Updates to LinkedIn
+
+I have updated my LinkedIn Profile to include a strong bio / branding statement that has been review by Career Services, a professional photo, and links to your Github profile and portfolio.
+
+I have included a link to my LinkedIn profile below to confirm assignment requirements were met:
+
+- Link to my LinkedIn profile - [https://www.linkedin.com/in/krystal-e-duran-b64552123/](https://www.linkedin.com/in/krystal-e-duran-b64552123/)
