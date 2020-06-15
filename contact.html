@@ -84,13 +84,58 @@
 									rows="5"
 								></textarea>
 							</div>
-							<button type="submit" class="btn purple text-light">
-								Submit
-							</button>
 						</form>
+						<button
+							type="submit"
+							class="btn purple text-light"
+							data-toggle="modal"
+							data-target="#exampleModal"
+						>
+							Submit
+						</button>
 					</div>
 					<!--column 3-->
 					<div class="col-md-2"></div>
+				</div>
+				<!-- modal row -->
+				<div
+					class="modal fade"
+					id="exampleModal"
+					tabindex="-1"
+					role="dialog"
+					aria-labelledby="exampleModalLabel"
+					aria-hidden="true"
+				>
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<div class="modal-header">
+								<h5 class="modal-title" id="exampleModalLabel">
+									Error Message
+								</h5>
+								<button
+									type="button"
+									class="close"
+									data-dismiss="modal"
+									aria-label="Close"
+								>
+									<span aria-hidden="true">&times;</span>
+								</button>
+							</div>
+							<div class="modal-body">
+								Email submission is not available at this time. Please
+								contact me via LinkedIn or Github. Thanks!
+							</div>
+							<div class="modal-footer">
+								<button
+									type="button"
+									class="btn btn-secondary"
+									data-dismiss="modal"
+								>
+									Close
+								</button>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
