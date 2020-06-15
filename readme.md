@@ -2,10 +2,10 @@
 
 This portfolio website was last updated on 6/15/2020. Please reference the content below for a detailed summary of the updates made to my portfolio. At this time my portfolio website now has the following pages to showcase my work:
 
-- **About webpage** - Provides a short personal bio
-- **Projects webpage** - Dedicated to showcasing my projects
-- **Fun Facts webpage** - Inlcude some fun facts about me
-- **Contact webpage** - Includes a form that a user can fill out to contact me
+- About webpage - Provides a short personal bio
+- Projects webpage - Dedicated to showcasing my projects
+- Fun Facts webpage - Inlcude some fun facts about me
+- Contact webpage - Includes a form that a user can fill out to contact me
   - This feature is not working at the moment, so I included a modal to serve as an error message to warn the reader.
 
 ## Links to Portfolio Website
