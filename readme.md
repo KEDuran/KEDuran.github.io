@@ -1,6 +1,6 @@
 # Portfolio for Krystal E. Duran
 
-This portfolio website was updated on 6/15/2020. Please reference the content below for a detailed summary of the updates I included for this assignment. At this time, my portfolio website now has the following pages to showcase my work:
+This portfolio website was updated on 6/18/2020. Please reference the content below for a detailed summary of the updates I included for this assignment. At this time, my portfolio website now has the following pages to showcase my work:
 
 - About webpage - Provides a short personal bio
 - Projects webpage - Showcases four of my high scoring projects
